@@ -1,0 +1,7 @@
+C:\Users\maria\source\repos\ZeldaDungeon\ZeldaDungeonConsole\bin\Debug\ZeldaDungeonConsole.exe.config
+C:\Users\maria\source\repos\ZeldaDungeon\ZeldaDungeonConsole\bin\Debug\ZeldaDungeonConsole.exe
+C:\Users\maria\source\repos\ZeldaDungeon\ZeldaDungeonConsole\bin\Debug\ZeldaDungeonConsole.pdb
+C:\Users\maria\source\repos\ZeldaDungeon\ZeldaDungeonConsole\obj\Debug\ZeldaDungeonConsole.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\ZeldaDungeon\ZeldaDungeonConsole\obj\Debug\ZeldaDungeonConsole.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\ZeldaDungeon\ZeldaDungeonConsole\obj\Debug\ZeldaDungeonConsole.exe
+C:\Users\maria\source\repos\ZeldaDungeon\ZeldaDungeonConsole\obj\Debug\ZeldaDungeonConsole.pdb
